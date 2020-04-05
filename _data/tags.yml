@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+nanan-load:
+  name: nanan-load
+  description: 位于湖北通山县
+  cover: assets/images/nanan-load-current.png
