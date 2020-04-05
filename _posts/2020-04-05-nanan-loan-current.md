@@ -11,7 +11,12 @@ subclass: 'post tag-getting-started'
 author: ghost
 ---
 
-<video src="https://mp.weixin.qq.com/s/7rmp76QEhJvIKF3dikPmig" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video id="video" preload="none" src="https://v3-tt.ixigua.com/f87cd1acbc28aad0629fc541ebde859a/5e8a0d79/video/m/220ed59c46a59344c1b811e15339ab48432116590e270000494f4f9c23d3/?a=1768&br=0&bt=1627&cr=0&cs=0&dr=0&ds=3&er=&l=20200405235438010194099205323FDBE5&lr=&qs=0&rc=MzdzdTt5O2h5dDMzNDkzM0ApNzc1NTk5ZjxmNzM7OzRpOGdlM15qci9ncDFfLS00Li9zczMtLzM0YC0uNDAxXi0zL2M6Yw%3D%3D&vl=&vr=" controls="controls" width="700" height="500">您的浏览器不支持播放该视频！</video>
+
+<!-- <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="https://v3-tt.ixigua.com/f87cd1acbc28aad0629fc541ebde859a/5e8a0d79/video/m/220ed59c46a59344c1b811e15339ab48432116590e270000494f4f9c23d3/?a=1768&br=0&bt=1627&cr=0&cs=0&dr=0&ds=3&er=&l=20200405235438010194099205323FDBE5&lr=&qs=0&rc=MzdzdTt5O2h5dDMzNDkzM0ApNzc1NTk5ZjxmNzM7OzRpOGdlM15qci9ncDFfLS00Li9zczMtLzM0YC0uNDAxXi0zL2M6Yw%3D%3D&vl=&vr=" type="video/mp4">
+      <p>村官如何殴打百姓</p>
+    </video> -->
 
 “要想富，先修路。”这是一句中国式谚语。修路于国家是发展，于百姓是幸福。继1978年国家改革开放以来，公路、铁路给百姓带来了致富之路，幸福之路。今天我要介绍的这是一条特殊的公路——“南岸公路”。
 
